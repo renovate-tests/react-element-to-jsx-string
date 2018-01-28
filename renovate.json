@@ -2,5 +2,6 @@
   "extends": [
     "config:js-app",
     "algolia"
-  ]
+  ],
+  "renovateFork": true
 }
