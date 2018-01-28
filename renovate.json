@@ -3,5 +3,6 @@
     "config:js-app",
     "algolia"
   ],
+  "prHourlyLimit": 0,
   "renovateFork": true
 }
